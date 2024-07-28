@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://socialify.git.ci/jinyinghuang10/cagram/image?description=1&font=Inter&issues=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark)
+![](https://socialify.git.ci/jinyinghuang10/Cagram/image?description=1&forks=1&issues=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark)
 
 # Cagram
 A third-party Telegram client based on Nagram It has many interesting features
